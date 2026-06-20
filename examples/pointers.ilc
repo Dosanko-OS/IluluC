@@ -1,0 +1,7 @@
+function main() {
+
+    i32 valor = 42
+    pointer<i32> ptr = address(valor)
+    i32 lido = deref(ptr)
+
+}

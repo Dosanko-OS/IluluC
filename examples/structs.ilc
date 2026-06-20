@@ -1,0 +1,14 @@
+struct Ponto {
+
+    x: i32
+    y: i32
+
+}
+
+function main() {
+
+    Ponto p
+    p.x = 10
+    p.y = 20
+
+}
